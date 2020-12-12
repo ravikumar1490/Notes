@@ -1,4 +1,16 @@
-### Links
+### Fake Backend
+
+https://jsonplaceholder.typicode.com/
+
+**Css**
+
+Spinners: https://projects.lukehaas.me/css-loaders/
+
+Interceptors
+
+
+
+### Tutorials
 
 https://www.edx.org/  
 https://www.coursera.org/
