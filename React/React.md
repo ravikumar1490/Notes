@@ -274,7 +274,7 @@ this.state({
 });
 
 //Use the below one to update state when there is value depends on the prev state.
-this.state((prevState, props) => { /***/
+this.setState((prevState, props) => { /***/
     return {
     	persons: persons,
         changeCounter: prevState.changeCounter + 1  /***/
